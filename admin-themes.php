@@ -1,12 +1,12 @@
 <?php
 /*
- * Plugin Name: Omiya Games' Admin Themes
- * Plugin URI: http://omiyagames.com
+ * Plugin Name: Admin Editor Themes
+ * Plugin URI: https://github.com/OmiyaGames/admin-themes
  * Description: Changes admin themes based on site index.
- * Version: 0.1
+ * Version: 1.0.0
  * Author: Taro Omiya
- * Author URI: http://taroomiya.com
- * License: Taro Omiya
+ * Author URI: https://omiyagames.com
+ * License: GPL v2
  **/
 
 function change_admin_color($result) {
