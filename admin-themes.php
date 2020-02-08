@@ -3,7 +3,7 @@
  * Plugin Name: Admin Editor Themes
  * Plugin URI: https://github.com/OmiyaGames/admin-themes
  * Description: Changes admin themes based on site index.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: Taro Omiya
  * Author URI: https://omiyagames.com
  * License: GPL v2
