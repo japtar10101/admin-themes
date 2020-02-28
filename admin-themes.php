@@ -1,11 +1,11 @@
 <?php
 /*
  * Plugin Name: Admin Editor Themes
- * Plugin URI: https://github.com/OmiyaGames/admin-themes
+ * Plugin URI: https://github.com/japtar10101/admin-themes
  * Description: Changes admin themes based on site index.
  * Version: 1.0.1
  * Author: Taro Omiya
- * Author URI: https://omiyagames.com
+ * Author URI: https://taroomiya.com
  * License: GPL v2
  **/
 
